@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+*.swp
+
+# Scan outputs
+*.nmap
+*.gnmap
+*.xml
+
+# Temp
+tmp/
+logs/
